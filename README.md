@@ -16,11 +16,6 @@ A simple and powerful **Task Manager application** for organizing tasks, setting
 
 ## 🛠️ Tech Stack
 - [Node.js](https://nodejs.org/) / [Express](https://expressjs.com/) for backend  
-- [React](https://react.dev/) for frontend  
-- [MongoDB](https://www.mongodb.com/) for database  
-- [TailwindCSS](https://tailwindcss.com/) for styling  
-
-*(Update this section based on your actual stack)*
 
 ---
 
